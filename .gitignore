@@ -1,7 +1,7 @@
 .vsconfig
 Library/
 Logs/
-Packages/
+.vs/
 ProjectSettings/
 Temp/
 UserSettings/
