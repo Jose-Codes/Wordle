@@ -3,7 +3,9 @@ using System.Collections.Generic;
 using UnityEngine;
 
 /// <summary>
-/// Purpose: This class 
+/// To do: 
+/// 1) Make a counter that will end the game after 6 guesses
+/// 2) Check that the length of the string is 5 characters
 /// </summary>
 
 public class GameManager : MonoBehaviour
